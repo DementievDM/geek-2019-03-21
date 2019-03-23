@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo "This is a new code file!"
-
-echo "Hello from HiTi"
